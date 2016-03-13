@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="691e4478-cae1-499d-af65-73a276cd7a36" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/theme/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/src/main/res/drawable-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/theme/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/theme/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/src/main/res/drawable-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/theme/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/src/main/res/drawable-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/theme/src/main/res/drawable-xxxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/theme.iml" afterPath="$PROJECT_DIR$/theme/theme.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/src/main/assets/wallpapers/wallpaper01.jpg" afterPath="$PROJECT_DIR$/theme/src/main/assets/wallpapers/wallpaper01.jpg" />
     </list>
     <ignored path="Festivel_of_Colors.iws" />
     <ignored path=".idea/workspace.xml" />
