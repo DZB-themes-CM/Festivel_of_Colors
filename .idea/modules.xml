@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectModuleManager">
-    <modules />
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Festivel_of_Colors.iml" filepath="$PROJECT_DIR$/Festivel_of_Colors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/theme/theme.iml" filepath="$PROJECT_DIR$/theme/theme.iml" />
+    </modules>
   </component>
 </project>
