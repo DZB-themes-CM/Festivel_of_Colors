@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="691e4478-cae1-499d-af65-73a276cd7a36" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/src/main/assets/wallpapers/wallpaper01.jpg" afterPath="$PROJECT_DIR$/theme/src/main/assets/wallpapers/wallpaper01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/theme/src/main/assets/lockscreen/lockscreen01.jpg" afterPath="$PROJECT_DIR$/theme/src/main/assets/lockscreen/lockscreen01.jpg" />
     </list>
     <ignored path="Festivel_of_Colors.iws" />
     <ignored path=".idea/workspace.xml" />
