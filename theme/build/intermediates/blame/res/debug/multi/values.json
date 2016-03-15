@@ -15,9 +15,9 @@
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 724,
+                        "startOffset": 720,
                         "endColumn": 50,
-                        "endOffset": 770
+                        "endOffset": 766
                     }
                 }
             },
@@ -34,9 +34,9 @@
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 775,
+                        "startOffset": 771,
                         "endColumn": 62,
-                        "endOffset": 833
+                        "endOffset": 829
                     }
                 }
             },
@@ -45,8 +45,8 @@
                     "startLine": 4,
                     "startColumn": 4,
                     "startOffset": 169,
-                    "endColumn": 57,
-                    "endOffset": 222
+                    "endColumn": 53,
+                    "endOffset": 218
                 },
                 "from": {
                     "file": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/res/values/strings.xml",
@@ -54,8 +54,8 @@
                         "startLine": 19,
                         "startColumn": 4,
                         "startOffset": 666,
-                        "endColumn": 57,
-                        "endOffset": 719
+                        "endColumn": 53,
+                        "endOffset": 715
                     }
                 }
             },
@@ -63,10 +63,10 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 227,
+                    "startOffset": 223,
                     "endLine": 11,
                     "endColumn": 12,
-                    "endOffset": 513
+                    "endOffset": 509
                 },
                 "from": {
                     "file": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/res/values/styles.xml",
@@ -84,117 +84,13 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 518,
+                    "startOffset": 514,
                     "endLine": 14,
                     "endColumn": 12,
-                    "endOffset": 673
+                    "endOffset": 669
                 },
                 "from": {
                     "file": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1159,
-                        "endLine": 34,
-                        "endColumn": 12,
-                        "endOffset": 1314
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/home/xeon/CM-Themes /Festivel_of_Colors/theme/build/intermediates/res/merged/debug/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 50,
-                    "endOffset": 101
-                },
-                "from": {
-                    "file": "/home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 724,
-                        "endColumn": 50,
-                        "endOffset": 770
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 106,
-                    "endColumn": 62,
-                    "endOffset": 164
-                },
-                "from": {
-                    "file": "/home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 775,
-                        "endColumn": 62,
-                        "endOffset": 833
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 169,
-                    "endColumn": 57,
-                    "endOffset": 222
-                },
-                "from": {
-                    "file": "/home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 666,
-                        "endColumn": 57,
-                        "endOffset": 719
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 227,
-                    "endLine": 11,
-                    "endColumn": 12,
-                    "endOffset": 513
-                },
-                "from": {
-                    "file": "/home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 835,
-                        "endLine": 29,
-                        "endColumn": 12,
-                        "endOffset": 1121
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 518,
-                    "endLine": 14,
-                    "endColumn": 12,
-                    "endOffset": 673
-                },
-                "from": {
-                    "file": "/home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/res/values/styles.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,

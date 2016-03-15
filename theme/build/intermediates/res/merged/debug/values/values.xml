@@ -2,7 +2,7 @@
 <resources>
     <string name="theme_author">(33) (xz)</string>
     <string name="theme_email">gogreenalways@live.com</string>
-    <string name="theme_name">Festival Of Colors</string>
+    <string name="theme_name">Colors of Life</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in
