@@ -9,7 +9,7 @@
 <resources>
     <iconback img1="powder" img2="color" img3="bucket" img4="rocket" />
     <iconmask img1="mask" />
-    <scale factor=".60" />
+    <scale factor=".70" />
     <!-- Market app -->
     <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="googleplay" />
     <!-- Browser -->
