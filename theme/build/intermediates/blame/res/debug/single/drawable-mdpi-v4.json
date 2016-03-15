@@ -2,5 +2,9 @@
     {
         "merged": "/home/xeon/CM-Themes /Festivel_of_Colors/theme/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
         "source": "/home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/res/drawable-mdpi/ic_launcher.png"
     }
 ]

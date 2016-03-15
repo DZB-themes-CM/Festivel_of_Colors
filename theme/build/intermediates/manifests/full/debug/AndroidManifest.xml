@@ -15,7 +15,7 @@
  * limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.dzb.cm.holy"
+    package="com.dzb.cm.holi"
     android:versionCode="2"
     android:versionName="1.1" >
 

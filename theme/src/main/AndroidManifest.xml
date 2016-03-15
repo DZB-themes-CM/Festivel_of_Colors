@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.dzb.cm.dzb">
+    package="com.dzb.cm.holi">
 
     <uses-feature android:required="true" android:name="org.cyanogenmod.theme" />
 
