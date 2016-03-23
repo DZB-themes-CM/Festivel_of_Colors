@@ -1,57 +1,57 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:18:1-33:12
-	package
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:19:5-30
-		INJECTED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml
-		INJECTED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml
-	android:versionName
-		INJECTED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml
-		INJECTED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml
+ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:18:1-33:12
 	xmlns:android
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:18:11-69
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:18:11-69
+	package
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:19:5-30
+		INJECTED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml
+		INJECTED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml
+		INJECTED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml
-		INJECTED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml
+		INJECTED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml
+		INJECTED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml
 uses-feature#org.cyanogenmod.theme
-ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:21:5-82
+ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:21:5-82
 	android:required
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:21:19-42
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:21:19-42
 	android:name
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:21:43-79
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:21:43-79
 uses-sdk
-ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:23:5-74
+ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:23:5-74
 	android:targetSdkVersion
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:23:42-71
-		INJECTED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml
-		INJECTED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:23:42-71
+		INJECTED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml
+		INJECTED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:23:15-41
-		INJECTED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml
-		INJECTED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:23:15-41
+		INJECTED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml
+		INJECTED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml
 meta-data#org.cyanogenmod.theme.name
-ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:25:5-94
-	android:value
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:25:58-92
+ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:25:5-94
 	android:name
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:25:16-57
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:25:16-57
+	android:value
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:25:58-92
 meta-data#org.cyanogenmod.theme.author
-ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:26:5-99
-	android:value
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:26:60-96
+ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:26:5-99
 	android:name
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:26:16-59
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:26:16-59
+	android:value
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:26:60-96
 meta-data#org.cyanogenmod.theme.email
-ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:27:5-97
-	android:value
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:27:59-94
+ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:27:5-97
 	android:name
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:27:16-58
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:27:16-58
+	android:value
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:27:59-94
 application
-ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:29:5-31:45
-	android:hasCode
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:29:18-41
+ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:29:5-31:45
 	android:label
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:31:9-43
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:31:9-43
 	android:icon
-		ADDED from /home/xeon/CM-Themes /Festivel_of_Colors/theme/src/main/AndroidManifest.xml:30:9-45
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:30:9-45
+	android:hasCode
+		ADDED from /media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/AndroidManifest.xml:29:18-41

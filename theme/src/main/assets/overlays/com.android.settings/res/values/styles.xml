@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Overlays Created By 33 for DZB.
+     Give Proper Credits to us 
+-->
+<resources>
+   
+   
+   
+
+
+    <style name="Theme.SettingsBase" parent="@*android:style/Theme.Material" >
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:colorPrimary">#ff000000</item>
+        <item name="android:colorForeground">#00000000</item>
+        <item name="android:colorPrimaryDark">#ff202020</item>
+        <item name="android:colorAccent">#ff1b58b8</item>
+		<item name="android:textColorPrimary">#ffffffff</item>
+		<item name="android:textColorSecondary">#ffffffff</item>
+
+        <item name="android:navigationBarColor">#ff202020</item>
+
+
+
+         
+    </style>
+
+     <style name="Theme.ActionBar" parent="@*android:style/Widget.Material.Light.ActionBar.Solid">
+        <item name="android:background">#ff202020</item>
+    </style>
+
+    <style name="Theme.DialogWhenLarge" parent="@android:style/Theme.Material.DialogWhenLarge">
+        <item name="android:colorAccent">@color/white</item>
+    </style>
+
+
+    <style name="Theme.AlertDialog" parent="@android:style/Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">@color/white</item>
+    </style>
+
+    </resources>
