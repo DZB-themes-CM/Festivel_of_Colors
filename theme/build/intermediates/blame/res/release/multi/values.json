@@ -7,8 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 50,
-                    "endOffset": 101
+                    "endColumn": 52,
+                    "endOffset": 103
                 },
                 "from": {
                     "file": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/res/values/strings.xml",
@@ -16,8 +16,8 @@
                         "startLine": 20,
                         "startColumn": 4,
                         "startOffset": 720,
-                        "endColumn": 50,
-                        "endOffset": 766
+                        "endColumn": 52,
+                        "endOffset": 768
                     }
                 }
             },
@@ -25,80 +25,50 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 106,
+                    "startOffset": 108,
                     "endColumn": 62,
-                    "endOffset": 164
+                    "endOffset": 166
                 },
                 "from": {
-                    "file": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 771,
-                        "endColumn": 62,
-                        "endOffset": 829
-                    }
+                    "file": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 169,
+                    "startOffset": 171,
                     "endColumn": 53,
-                    "endOffset": 218
+                    "endOffset": 220
                 },
                 "from": {
-                    "file": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 666,
-                        "endColumn": 53,
-                        "endOffset": 715
-                    }
+                    "file": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/res/values/strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 223,
+                    "startOffset": 225,
                     "endLine": 11,
                     "endColumn": 12,
-                    "endOffset": 509
+                    "endOffset": 511
                 },
                 "from": {
-                    "file": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 835,
-                        "endLine": 29,
-                        "endColumn": 12,
-                        "endOffset": 1121
-                    }
+                    "file": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/res/values/styles.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 514,
+                    "startOffset": 516,
                     "endLine": 14,
                     "endColumn": 12,
-                    "endOffset": 669
+                    "endOffset": 671
                 },
                 "from": {
-                    "file": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/res/values/styles.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 1159,
-                        "endLine": 34,
-                        "endColumn": 12,
-                        "endOffset": 1314
-                    }
+                    "file": "/media/surya/Softwares/Git/Festivel_of_Colors/theme/src/main/res/values/styles.xml"
                 }
             }
         ]

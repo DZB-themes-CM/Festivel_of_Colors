@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="quantum_panel_text_color">#ffffffff</color>
+    <color name="quantum_panel_text_shadow_color">#ffffffff</color>
+    <color name="widget_text_panel">#ffffffff</color>
+    <color name="info_target_hover_tint">#daf8206e</color>
+    <color name="wallpaper_picker_translucent_gray">#660f0f0f</color>
+</resources>
