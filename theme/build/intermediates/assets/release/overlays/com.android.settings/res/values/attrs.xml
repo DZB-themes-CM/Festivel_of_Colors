@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Overlays Created By 33 for DZB.
+     Give Proper Credits to us 
+-->
+<resources>
+    <attr name="cardBackgroundColor" format="reference" />
+    <attr name="preferenceBackgroundColor" format="reference" />
+</resources>
